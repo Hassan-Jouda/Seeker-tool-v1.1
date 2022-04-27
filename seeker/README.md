@@ -85,7 +85,7 @@ Available Templates :
 ### Kali Linux / Arch Linux / Ubuntu / Parrot OS / Termux
 
 ```bash
-git clone https://github.com/thewhiteh4t/seeker.git
+https://github.com/Hassan-Jouda/Seeker-tool-v1.1.git
 cd seeker/
 chmod +x install.sh
 ./install.sh
