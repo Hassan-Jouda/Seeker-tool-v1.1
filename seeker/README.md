@@ -162,7 +162,7 @@ $ ./ngrok http 1337
 $ docker network create ngroknet
 
 # Step 2
-$ docker run --rm -it --net ngroknet --name seeker thewhiteh4t/seeker
+$ docker run --rm -it --net ngroknet --name seeker 
 
 # Step 3
 $ docker run --rm -it --net ngroknet --name ngrok wernight/ngrok ngrok http seeker:8080
